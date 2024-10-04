@@ -1,1 +1,1 @@
-# Skin-Cancer-Classification-Using-CNN
+# Skin-Cancer-image-Classification-Using-CNN
